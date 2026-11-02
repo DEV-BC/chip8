@@ -1,0 +1,8 @@
+[package]
+name = "chip8-tui"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+chip8-core = { path = "../chip8-core" }
+

@@ -1,0 +1,6 @@
+[package]
+name = "chip8-core"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
